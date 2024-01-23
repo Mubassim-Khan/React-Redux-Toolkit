@@ -8,7 +8,7 @@ export const Navbar = () => {
     return (
         <nav>
             <div className="nav-center">
-                <h3>Redux Toolkit</h3>
+                <h3>Redux Toolkit - Store</h3>
                 <div className="nav-container">
                     <CartIcon />
                     <div className="amount-container">

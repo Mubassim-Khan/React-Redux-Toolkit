@@ -1,14 +1,14 @@
 const cartItems = [
   {
     id: 'rec1JZlfCIBOPdcT2',
-    title: 'Samsung Galaxy S8',
+    title: 'Samsung Galaxy S88',
     price: '399.99',
     img: 'https://images2.imgbox.com/c2/14/zedmXgs6_o.png',
     amount: 1,
   },
   {
     id: 'recB6qcHPxb62YJ75',
-    title: 'google pixel',
+    title: 'google pixela',
     price: '499.99',
     img: 'https://images2.imgbox.com/fb/3d/O4TPmhlt_o.png',
     amount: 1,
