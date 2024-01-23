@@ -4,7 +4,7 @@ This repository contains the code for implementing the Redux Toolkit methodology
 
 ## Preview
 
-![Preview 1 Image](https://github.com/Mubassim-Khan/React-Redux-Toolkit/blob/master/src/Assets/Prev%201.png)
+![Preview 1 Image](https://github.com/Mubassim-Khan/React-Redux-Toolkit/blob/main/src/assets/Prev%201.png)
 
 ## Features
 
